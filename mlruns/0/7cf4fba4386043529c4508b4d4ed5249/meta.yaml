@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7cf4fba4386043529c4508b4d4ed5249/artifacts
+end_time: 1727540046531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cf4fba4386043529c4508b4d4ed5249
+run_name: bright-flea-98
+run_uuid: 7cf4fba4386043529c4508b4d4ed5249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727540029406
+status: 3
+tags: []
+user_id: masonl

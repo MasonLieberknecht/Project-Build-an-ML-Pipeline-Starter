@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ef8475ee94a042e0ada4a5c5f3d6c5a0/artifacts
+end_time: 1727539860224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef8475ee94a042e0ada4a5c5f3d6c5a0
+run_name: nervous-pug-227
+run_uuid: ef8475ee94a042e0ada4a5c5f3d6c5a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727539740375
+status: 4
+tags: []
+user_id: masonl

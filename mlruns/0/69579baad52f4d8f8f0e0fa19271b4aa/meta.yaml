@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/69579baad52f4d8f8f0e0fa19271b4aa/artifacts
+end_time: 1727539860782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69579baad52f4d8f8f0e0fa19271b4aa
+run_name: blushing-rook-218
+run_uuid: 69579baad52f4d8f8f0e0fa19271b4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727539734898
+status: 4
+tags: []
+user_id: masonl

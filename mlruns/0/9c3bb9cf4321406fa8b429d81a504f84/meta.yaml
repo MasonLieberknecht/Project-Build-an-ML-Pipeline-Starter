@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9c3bb9cf4321406fa8b429d81a504f84/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c3bb9cf4321406fa8b429d81a504f84
+run_name: handsome-ant-932
+run_uuid: 9c3bb9cf4321406fa8b429d81a504f84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727539240107
+status: 1
+tags: []
+user_id: masonl
