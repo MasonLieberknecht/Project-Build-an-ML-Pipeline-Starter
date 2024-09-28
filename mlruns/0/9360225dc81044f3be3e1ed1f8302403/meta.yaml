@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9360225dc81044f3be3e1ed1f8302403/artifacts
+end_time: 1727535055597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9360225dc81044f3be3e1ed1f8302403
+run_name: dashing-stag-843
+run_uuid: 9360225dc81044f3be3e1ed1f8302403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727534944087
+status: 3
+tags: []
+user_id: masonl

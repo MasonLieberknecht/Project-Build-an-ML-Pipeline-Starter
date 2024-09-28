@@ -1,0 +1,87 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.15",
+    "heartbeatAt": "2024-09-28T13:21:18.284881",
+    "startedAt": "2024-09-28T13:21:17.257656",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "src/eda/eda.ipynb",
+    "codePathLocal": null,
+    "root": "/home/masonl/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/MasonLieberknecht/Project-Build-an-ML-Pipeline-Starter",
+        "commit": "0936351046db1e8e7587aa16f516b26a9374b3da"
+    },
+    "email": null,
+    "host": "DESKTOP-T6MV576",
+    "username": "masonl",
+    "executable": "/home/masonl/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2807.999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 11.522220611572266
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 3.767608642578125
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/025212eeec934365a403d2287385a945/artifacts
+end_time: 1727532373366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 025212eeec934365a403d2287385a945
+run_name: youthful-wolf-600
+run_uuid: 025212eeec934365a403d2287385a945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727532364294
+status: 3
+tags: []
+user_id: masonl

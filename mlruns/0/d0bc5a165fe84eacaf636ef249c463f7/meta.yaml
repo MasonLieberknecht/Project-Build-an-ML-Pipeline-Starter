@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d0bc5a165fe84eacaf636ef249c463f7/artifacts
+end_time: 1727533568986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0bc5a165fe84eacaf636ef249c463f7
+run_name: flawless-mare-442
+run_uuid: d0bc5a165fe84eacaf636ef249c463f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727533565804
+status: 4
+tags: []
+user_id: masonl

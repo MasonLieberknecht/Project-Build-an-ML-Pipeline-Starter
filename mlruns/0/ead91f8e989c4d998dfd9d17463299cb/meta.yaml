@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ead91f8e989c4d998dfd9d17463299cb/artifacts
+end_time: 1727529204899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ead91f8e989c4d998dfd9d17463299cb
+run_name: indecisive-mole-273
+run_uuid: ead91f8e989c4d998dfd9d17463299cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727529030309
+status: 3
+tags: []
+user_id: masonl

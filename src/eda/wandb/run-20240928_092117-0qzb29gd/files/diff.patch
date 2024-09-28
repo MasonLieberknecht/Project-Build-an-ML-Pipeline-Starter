@@ -1,0 +1,24 @@
+diff --git a/src/eda/eda.ipynb b/src/eda/eda.ipynb
+index 5267002..68965e7 100644
+--- a/src/eda/eda.ipynb
++++ b/src/eda/eda.ipynb
+@@ -285,7 +285,9 @@
+    "cell_type": "code",
+    "execution_count": 8,
+    "id": "e7902159",
+-   "metadata": {},
++   "metadata": {
++    "scrolled": true
++   },
+    "outputs": [
+     {
+      "name": "stdout",
+@@ -878,7 +880,7 @@
+    "name": "python",
+    "nbconvert_exporter": "python",
+    "pygments_lexer": "ipython3",
+-   "version": "3.9.15"
++   "version": "3.10.15"
+   }
+  },
+  "nbformat": 4,

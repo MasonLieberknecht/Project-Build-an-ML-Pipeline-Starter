@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6a1d9da2a6f44f55a8b52a20bd6db81f/artifacts
+end_time: 1727533004027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a1d9da2a6f44f55a8b52a20bd6db81f
+run_name: learned-fowl-614
+run_uuid: 6a1d9da2a6f44f55a8b52a20bd6db81f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727533000880
+status: 4
+tags: []
+user_id: masonl

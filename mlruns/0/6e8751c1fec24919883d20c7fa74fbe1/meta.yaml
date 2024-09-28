@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6e8751c1fec24919883d20c7fa74fbe1/artifacts
+end_time: 1727535055245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e8751c1fec24919883d20c7fa74fbe1
+run_name: useful-moth-344
+run_uuid: 6e8751c1fec24919883d20c7fa74fbe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727534953283
+status: 3
+tags: []
+user_id: masonl

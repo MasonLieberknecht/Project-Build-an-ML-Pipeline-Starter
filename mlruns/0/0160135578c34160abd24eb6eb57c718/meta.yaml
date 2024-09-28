@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0160135578c34160abd24eb6eb57c718/artifacts
+end_time: 1727529205690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0160135578c34160abd24eb6eb57c718
+run_name: crawling-fawn-37
+run_uuid: 0160135578c34160abd24eb6eb57c718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727528877827
+status: 3
+tags: []
+user_id: masonl
