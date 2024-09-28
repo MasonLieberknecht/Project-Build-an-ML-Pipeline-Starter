@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a556533e8ebb45dea55ca86ea7f0ebc0/artifacts
+end_time: 1727544978532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a556533e8ebb45dea55ca86ea7f0ebc0
+run_name: secretive-hog-727
+run_uuid: a556533e8ebb45dea55ca86ea7f0ebc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727544569598
+status: 4
+tags: []
+user_id: masonl

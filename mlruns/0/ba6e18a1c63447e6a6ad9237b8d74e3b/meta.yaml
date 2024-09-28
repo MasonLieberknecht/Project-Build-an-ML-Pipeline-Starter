@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ba6e18a1c63447e6a6ad9237b8d74e3b/artifacts
+end_time: 1727543815437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba6e18a1c63447e6a6ad9237b8d74e3b
+run_name: silent-ape-726
+run_uuid: ba6e18a1c63447e6a6ad9237b8d74e3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543726365
+status: 4
+tags: []
+user_id: masonl

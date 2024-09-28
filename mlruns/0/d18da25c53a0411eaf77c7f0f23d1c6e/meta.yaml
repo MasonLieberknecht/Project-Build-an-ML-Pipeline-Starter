@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d18da25c53a0411eaf77c7f0f23d1c6e/artifacts
+end_time: 1727545526014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d18da25c53a0411eaf77c7f0f23d1c6e
+run_name: rebellious-loon-359
+run_uuid: d18da25c53a0411eaf77c7f0f23d1c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727545390559
+status: 4
+tags: []
+user_id: masonl

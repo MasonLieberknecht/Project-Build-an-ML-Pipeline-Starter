@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d0a9afea29e54f4c83f8f3a10186cafe/artifacts
+end_time: 1727545962500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0a9afea29e54f4c83f8f3a10186cafe
+run_name: gregarious-bug-777
+run_uuid: d0a9afea29e54f4c83f8f3a10186cafe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727545893350
+status: 4
+tags: []
+user_id: masonl

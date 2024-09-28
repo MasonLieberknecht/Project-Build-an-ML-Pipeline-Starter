@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a5d0b8f8447b4b7ba931edce268e1b60/artifacts
+end_time: 1727543525063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5d0b8f8447b4b7ba931edce268e1b60
+run_name: abundant-frog-199
+run_uuid: a5d0b8f8447b4b7ba931edce268e1b60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543508812
+status: 4
+tags: []
+user_id: masonl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/64adfff0425241beb5bdf9e36b78d4a5/artifacts
+end_time: 1727545738820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64adfff0425241beb5bdf9e36b78d4a5
+run_name: caring-yak-492
+run_uuid: 64adfff0425241beb5bdf9e36b78d4a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727545603735
+status: 4
+tags: []
+user_id: masonl

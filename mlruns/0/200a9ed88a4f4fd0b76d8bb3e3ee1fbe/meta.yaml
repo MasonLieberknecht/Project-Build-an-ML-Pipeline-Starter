@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/200a9ed88a4f4fd0b76d8bb3e3ee1fbe/artifacts
+end_time: 1727546274249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 200a9ed88a4f4fd0b76d8bb3e3ee1fbe
+run_name: vaunted-ant-121
+run_uuid: 200a9ed88a4f4fd0b76d8bb3e3ee1fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727545884175
+status: 4
+tags: []
+user_id: masonl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/01e1d8cfb2ea42edbb9b24a9d42ca59d/artifacts
+end_time: 1727542029170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01e1d8cfb2ea42edbb9b24a9d42ca59d
+run_name: sassy-hen-262
+run_uuid: 01e1d8cfb2ea42edbb9b24a9d42ca59d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727541865885
+status: 3
+tags: []
+user_id: masonl

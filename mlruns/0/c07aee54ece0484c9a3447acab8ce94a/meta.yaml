@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c07aee54ece0484c9a3447acab8ce94a/artifacts
+end_time: 1727544106718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c07aee54ece0484c9a3447acab8ce94a
+run_name: likeable-fish-165
+run_uuid: c07aee54ece0484c9a3447acab8ce94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543718113
+status: 4
+tags: []
+user_id: masonl

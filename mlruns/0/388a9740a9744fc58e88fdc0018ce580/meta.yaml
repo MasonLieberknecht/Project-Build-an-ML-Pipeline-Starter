@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/388a9740a9744fc58e88fdc0018ce580/artifacts
+end_time: 1727544775286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 388a9740a9744fc58e88fdc0018ce580
+run_name: intelligent-lark-914
+run_uuid: 388a9740a9744fc58e88fdc0018ce580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727544659919
+status: 4
+tags: []
+user_id: masonl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/89aae507e3f64e35946b68455936bfc5/artifacts
+end_time: 1727542029451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89aae507e3f64e35946b68455936bfc5
+run_name: inquisitive-cow-149
+run_uuid: 89aae507e3f64e35946b68455936bfc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727541857218
+status: 3
+tags: []
+user_id: masonl

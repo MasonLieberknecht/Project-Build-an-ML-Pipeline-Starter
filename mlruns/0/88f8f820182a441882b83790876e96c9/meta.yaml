@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/88f8f820182a441882b83790876e96c9/artifacts
+end_time: 1727541352105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88f8f820182a441882b83790876e96c9
+run_name: exultant-shrike-374
+run_uuid: 88f8f820182a441882b83790876e96c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727541337517
+status: 4
+tags: []
+user_id: masonl

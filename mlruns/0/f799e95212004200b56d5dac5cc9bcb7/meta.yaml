@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f799e95212004200b56d5dac5cc9bcb7/artifacts
+end_time: 1727546318687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f799e95212004200b56d5dac5cc9bcb7
+run_name: loud-newt-974
+run_uuid: f799e95212004200b56d5dac5cc9bcb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727546287126
+status: 3
+tags: []
+user_id: masonl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/391bfeab036b40d3abb2af77df2a7e4d/artifacts
+end_time: 1727543920872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 391bfeab036b40d3abb2af77df2a7e4d
+run_name: stately-boar-929
+run_uuid: 391bfeab036b40d3abb2af77df2a7e4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543815606
+status: 4
+tags: []
+user_id: masonl

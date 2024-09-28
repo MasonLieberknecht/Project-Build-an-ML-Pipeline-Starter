@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c7f5c608f39342d4ab892f812c047ea0/artifacts
+end_time: 1727541743475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7f5c608f39342d4ab892f812c047ea0
+run_name: respected-horse-197
+run_uuid: c7f5c608f39342d4ab892f812c047ea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727541735068
+status: 4
+tags: []
+user_id: masonl

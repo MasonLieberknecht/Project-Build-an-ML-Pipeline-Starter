@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/59dd0ad3a98e4e598ad435d91cae52a1/artifacts
+end_time: 1727543987016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59dd0ad3a98e4e598ad435d91cae52a1
+run_name: nervous-quail-662
+run_uuid: 59dd0ad3a98e4e598ad435d91cae52a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543921102
+status: 4
+tags: []
+user_id: masonl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dd11200bf76f4f0c9843965c74038ad3/artifacts
+end_time: 1727546154880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd11200bf76f4f0c9843965c74038ad3
+run_name: capricious-elk-235
+run_uuid: dd11200bf76f4f0c9843965c74038ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727546074598
+status: 4
+tags: []
+user_id: masonl

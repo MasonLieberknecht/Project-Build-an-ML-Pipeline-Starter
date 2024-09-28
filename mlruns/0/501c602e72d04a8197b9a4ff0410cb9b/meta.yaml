@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/501c602e72d04a8197b9a4ff0410cb9b/artifacts
+end_time: 1727544977968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 501c602e72d04a8197b9a4ff0410cb9b
+run_name: masked-quail-295
+run_uuid: 501c602e72d04a8197b9a4ff0410cb9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727544842785
+status: 4
+tags: []
+user_id: masonl

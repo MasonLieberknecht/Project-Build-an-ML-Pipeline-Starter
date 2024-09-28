@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/33649207a562433f9299ddd8e3c96111/artifacts
+end_time: 1727543508607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33649207a562433f9299ddd8e3c96111
+run_name: bemused-colt-988
+run_uuid: 33649207a562433f9299ddd8e3c96111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543488726
+status: 4
+tags: []
+user_id: masonl

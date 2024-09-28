@@ -1,0 +1,103 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.15",
+    "heartbeatAt": "2024-09-28T17:51:43.174028",
+    "startedAt": "2024-09-28T17:51:42.677377",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/home/masonl/Project-Build-an-ML-Pipeline-Starter/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/home/masonl/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/MasonLieberknecht/Project-Build-an-ML-Pipeline-Starter",
+        "commit": "9c438b494ad5ef4f5ad6dd05b7dc9e5b12811d38"
+    },
+    "email": "lieberknechtmason@gmail.com",
+    "root": "/home/masonl/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-T6MV576",
+    "username": "masonl",
+    "executable": "/home/masonl/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2807.999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2807.999,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 13.811477661132812
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 3.767608642578125
+    }
+}

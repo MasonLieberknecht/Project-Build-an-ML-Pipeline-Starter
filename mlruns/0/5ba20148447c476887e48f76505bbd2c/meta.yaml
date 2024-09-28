@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5ba20148447c476887e48f76505bbd2c/artifacts
+end_time: 1727545390226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ba20148447c476887e48f76505bbd2c
+run_name: ambitious-vole-905
+run_uuid: 5ba20148447c476887e48f76505bbd2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727545322411
+status: 4
+tags: []
+user_id: masonl

@@ -1,0 +1,21 @@
+2024-09-28 13:17:06,774 Minimum price: 10, Maximum price: 350
+2024-09-28 13:17:06,814 Preparing sklearn pipeline
+2024-09-28 13:17:06,816 Fitting
+2024-09-28 13:18:35,037 Scoring
+2024-09-28 13:18:35,466 Score: 0.5340342040659455
+2024-09-28 13:18:35,466 MAE: 33.54348026315789
+2024-09-28 13:18:35,467 Exporting model
+Traceback (most recent call last):
+  File "/home/masonl/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 280, in <module>
+    go(args)
+  File "/home/masonl/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 97, in go
+    signature = mlflow.models.infer_signature(X_val, y_pred)
+  File "/home/masonl/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/mlflow/models/signature.py", line 212, in infer_signature
+    inputs = _infer_schema(model_input) if model_input is not None else None
+  File "/home/masonl/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/mlflow/types/utils.py", line 135, in _infer_schema
+    [ColSpec(type=_infer_pandas_column(data[col]), name=col) for col in data.columns]
+  File "/home/masonl/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/mlflow/types/utils.py", line 135, in <listcomp>
+    [ColSpec(type=_infer_pandas_column(data[col]), name=col) for col in data.columns]
+  File "/home/masonl/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/mlflow/types/utils.py", line 293, in _infer_pandas_column
+    raise MlflowException(
+mlflow.exceptions.MlflowException: Unable to map 'object' type to MLflow DataType. object can be mapped iff all values have identical data type which is one of (string, (bytes or byterray),  int, float).

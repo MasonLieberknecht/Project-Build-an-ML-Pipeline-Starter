@@ -1,0 +1,15 @@
+artifact_uri: file:///home/masonl/Project-Build-an-ML-Pipeline-Starter/mlruns/0/25cc7697fdfd4358966b7200dd525e06/artifacts
+end_time: 1727543542747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25cc7697fdfd4358966b7200dd525e06
+run_name: sneaky-turtle-370
+run_uuid: 25cc7697fdfd4358966b7200dd525e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543324420
+status: 4
+tags: []
+user_id: masonl
